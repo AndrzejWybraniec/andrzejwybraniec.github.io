@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.zeiss.spo.hunting.debug",
+    "sha256_cert_fingerprints":
+    ["21:A8:5E:81:FC:BE:7F:A9:02:3A:96:10:5A:49:1F:93:EC:DD:BB:0D:BA:F3:AD:93:A9:FD:95:16:10:67:AA:2A"]
+  }
+}]
